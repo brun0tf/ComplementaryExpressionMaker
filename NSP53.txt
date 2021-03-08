@@ -1,0 +1,53 @@
+a*b + a*c + a*d + b*c*d
+a*b + a*c*e + d*e + d*b*c
+e*a*b + e*a*c + e*a*d + e*b*c*d
+e + a*b + a*c + a*d + b*c*d
+a*e*b + a*e*c + d*a + d*b*c
+a*b + a*d + a*c*e + b*d*c*e
+a*b + a*c + d*e*a + d*e*b*c
+a*b + a*c + a*d + b*c*d + b*e
+a*b + a*c + a*d + a*e + b*c*d + b*c*e
+a*f*b + a*f*c*e + d*b*c + d*e
+a*b + a*c*e + f*b + f*c*e + d*b*c + d*e
+c*f*a*e + c*f*b*d + a*b + d*e
+c*a*e + c*b*d + f*a*e + f*b*d + a*b + d*e
+e*f*a*b + e*f*a*c + e*f*a*d + e*f*b*c*d
+e*a*b + e*a*c + e*a*d + e*b*c*d + f*a*b + f*a*c + f*a*d + f*b*c*d
+e*f + e*a*b + e*a*c + e*a*d + e*b*c*d
+e*f + a*b + a*c + a*d + b*c*d
+e + f + a*b + a*c + a*d + b*c*d
+f*a*e*b + f*a*e*c + f*d*a + f*d*b*c
+f + a*e*b + a*e*c + d*a + d*b*c
+f*c*e*a + f*c*e*b*d + f*a*b + f*a*d
+f + c*e*a + c*e*b*d + a*b + a*d
+a*e*f*b + a*e*f*c + d*a + d*b*c
+d*a + d*b*c + a*b + a*c + e*b + f*b + f*c*a + e*c*a
+a*e*b + a*e*c + a*f*b + a*f*c + d*a + d*b*c
+d*b*c + a*b + a*c + d*a + e*f*b + e*f*c*a
+c*e*f*a + c*e*f*b*d + a*b + a*d
+c*a + c*b*d + e*a + e*b*d + f*a + f*b*d + a*b + a*d
+c*e*a + c*e*b*d + c*f*a + c*f*b*d + a*b + a*d
+c*a + c*b*d + e*f*a + e*f*b*d + a*b + a*d
+a*e*b + a*e*c*f + d*a + d*b*c*f
+d*b*c*f + a*b + d*a + a*c*f + e*b + e*c*f*a
+a*e*b + a*e*c + a*e*f + d*a + d*b*c + d*b*f
+a*b + a*c + a*f + e*b*a + e*c + e*f + d*a + d*b*c + d*b*f
+a*e*b + a*e*c + d*f*a + d*f*b*c
+a*b + a*c + e*b*a + e*c + d*f*a + d*f*b*c
+a*e*b + a*e*c + d*a + d*b*c + f*a + f*b*c
+a*b + a*c + e*b*a + e*c + d*a + d*b*c + f*a + f*b*c
+a*e*b*f + a*e*c + d*a + d*b*c*f
+a*b*f + a*c + e*b*f*a + e*c + d*a + d*b*c*f
+a*e*b + a*e*f + a*e*c + d*a + d*c*b + d*c*f
+a*f + a*b + e*f + d*a + e*c*a + d*c*f + d*c*b + a*c + e*b
+a*e*b + a*e*c*f + d*a*f + d*b*c
+a*b + a*c*f + e*c*f + d*a*f + d*b*c
+a*e*b + a*e*c + a*e*c*f + d*a + d*f + d*b*c
+a*d + a*b + a*c + b*c*d + b*e + d*f + c*e*f + a*c*f
+a*b*e + a*c + d*f*a + d*f*c*b*e
+a*b + a*e + a*c + d*f*a + d*f*c*b + d*f*c*e
+a*b*e + a*c + d*a + d*c*b*e + f*a + f*c*b*e
+a*b + a*e + a*c + d*a + d*c*b + d*c*e + f*a + f*c*b + f*c*e
+a*b*e + a*c*f + d*a + d*b*c*e*f
+a*b + a*e + a*c*f + d*a + d*c*f*b + d*c*f*e
+a*b + a*e + a*c + a*f + d*a + d*c*b + d*c*e + d*f*b + d*f*e
